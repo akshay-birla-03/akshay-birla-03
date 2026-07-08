@@ -1,37 +1,57 @@
-________________________________________
-👋 Hi, I’m Akshay Birla
-🚀 Data Analyst & AI Developer | Python • SQL • ML • Power BI • Fintech • OCR
-🎓 B.Sc. Data Science Graduate (Savitribai Phule Pune University) with an 8.8 CGPA
-💡 Passionate about leveraging AI, Machine Learning & Data Analytics to build impactful solutions in Fintech & Renewable Energy.
-________________________________________
-🔗 Connect with Me
-•	🌐 https://www.linkedin.com/in/akshay-birla/
-•	📧 akshaybirla030603@gmail.com
-•	💻 GitHub Projects
-________________________________________
-🛠️ Skills
-•	Languages: Python, R, SQL
-•	Data Tools: Power BI, Excel, PySpark
-•	Frameworks & Platforms: Django, Jupyter, GitHub, AWS (Basics)
-•	Machine Learning: Regression, Classification, Clustering, NLP, LSTMs, ARIMA
-•	Specialties: Fintech Chatbots, OCR-based Bank Statement Analyzers, Predictive Analytics, Data Visualization
-________________________________________
-🏆 Achievements
-•	🏅 Guinness World Record – Meri Maati Mera Desh project (1M+ selfies processed).
-•	📊 Core member of Shantata Punekar Vachat Ahe – workflow lead for processing 11,500+ videos with 84% efficiency.
-•	💼 Internship experiences at DocBoyz (Fintech), Sustainable Eco-System (Renewables), Sparks Foundation (Data Analysis).
-•	📜 Offer letters from TCS & Wipro for Graduate Trainee roles.
-________________________________________
-📂 Featured Projects
-🔹 Fintech Chatbot – AI-powered RAG chatbot using LLM + MySQL for financial queries.
-🔹 Universal Bank Statement Analyzer (GBSA) – OCR + Textract + Regex pipeline to parse complex multi-bank statements.
-🔹 Financial Portfolio Management System – LSTM & ARIMA models for stock/crypto forecasting.
-🔹 Solar Energy Forecasting – Predictive ML models with Power BI dashboards, improved accuracy by 30%.
-🔹 Voice-enabled Assistant – Python + NLP voice command assistant.
-________________________________________
-📊 GitHub Stats
- 
- 
-________________________________________
-✨ “Data is the new oil, but intelligence is the new electricity.”
-________________________________________
+<h1 align="center">Hi, I'm Akshay Birla 👋</h1>
+
+<p align="center">
+  <b>Data Scientist · Data Engineer · AI/LLM Engineer</b><br/>
+  Building production-shaped systems across ML, data platforms, and applied LLMs.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshay-birla/">LinkedIn</a> ·
+  <a href="mailto:akshaybirla030603@gmail.com">Email</a>
+</p>
+
+---
+
+🎓 **B.Sc. Data Science** (Savitribai Phule Pune University, 8.8 CGPA) · based in Pune, India
+💡 I like the hard parts other people skip: **grounding LLMs so they don't hallucinate**,
+**data pipelines that fail loudly when data is bad**, and **ML that's evaluated honestly and
+actually served** behind an API.
+
+## 🛠️ Tech
+
+**Languages:** Python, SQL, R
+**ML / DS:** scikit-learn, pandas, NLP, forecasting, MLflow, model cards
+**Data Engineering:** DuckDB, PySpark, Airflow, dbt-style ELT, data-quality gating, Kafka
+**AI / LLM:** RAG, agents, hybrid retrieval (dense + BM25), vector search, embeddings
+**Serving / Platform:** FastAPI, Docker, GitHub Actions (CI), AWS (basics), Power BI
+
+## 🚀 Featured Projects
+
+Each repo is self-contained, **tested (CI green)**, containerised, and **runs offline out of
+the box** with synthetic data — clone and `pytest` in under a minute.
+
+| Project | What it does | Stack | Domain |
+|---------|--------------|-------|--------|
+| 🧠 **[ClauseIQ](https://github.com/akshay-birla-03/clauseiq)** | Agentic RAG that answers contract questions **with clause-level citations** + a retrieval eval harness | RAG · LLM · FastAPI · hybrid search | Legal-tech |
+| 🏭 **[RetailFlow](https://github.com/akshay-birla-03/retailflow)** | Batch **+ streaming** analytics lakehouse: dbt-style ELT DAG, data-quality gates, Airflow | DuckDB · PySpark · Airflow · ELT | Retail |
+| 📉 **[ChurnGuard](https://github.com/akshay-birla-03/churnguard)** | Telecom churn prediction with a **full MLOps lifecycle**: tracking, model card, serving | scikit-learn · MLflow · FastAPI | Telecom |
+| 🛡️ **[StreamGuard](https://github.com/akshay-birla-03/streamguard)** | **Real-time** card-fraud detection with stateful online features | Kafka · streaming ML · scikit-learn | Fintech |
+| 🔎 **[FindSim](https://github.com/akshay-birla-03/findsim)** | Hybrid **(dense + BM25, RRF)** product search & recommendations with recall@k eval | Semantic search · IR · FastAPI | E-commerce |
+
+## 🏆 Highlights
+
+- 🏅 **Guinness World Record** contributor — *Meri Maati Mera Desh* (1M+ selfies processed)
+- 📊 Workflow lead on *Shantata Punekar Vachat Ahe* — 11,500+ videos at 84% efficiency
+- 💼 Internships across **Fintech, Renewable Energy & Data Analytics**
+- 📜 Graduate Trainee offers from **TCS & Wipro**
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshay-birla-03&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-birla-03&layout=compact" height="150"/>
+</p>
+
+---
+
+<p align="center"><i>"Data is the new oil, but intelligence is the new electricity."</i></p>
