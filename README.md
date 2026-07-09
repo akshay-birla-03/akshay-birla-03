@@ -78,7 +78,7 @@ I'm a **Data Scientist & AI Developer** working across the full lifecycle of int
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akshay-birla-03&hide_border=true&background=0a0a0c&stroke=8b7bfd&ring=22d3ee&fire=a855f7&currStreakLabel=8b7bfd" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-birla-03&hide_border=true&background=0a0a0c&stroke=8b7bfd&ring=22d3ee&fire=a855f7&currStreakLabel=8b7bfd&v=3" alt="streak"/>
 </p>
 
 ---
