@@ -65,6 +65,9 @@ served behind an API.**
 | 📉 **[ChurnGuard](https://github.com/akshay-birla-03/churnguard)** | Churn prediction with a **full MLOps lifecycle** | scikit-learn · MLflow · FastAPI | Telecom |
 | 🛡️ **[StreamGuard](https://github.com/akshay-birla-03/streamguard)** | **Real-time** card-fraud detection, stateful online features | Kafka · streaming ML | Fintech |
 | 🔎 **[FindSim](https://github.com/akshay-birla-03/findsim)** | Hybrid **(dense + BM25, RRF)** semantic search + recs | Semantic search · IR · FastAPI | E-commerce |
+| 📦 **[AtlasForecast](https://github.com/akshay-birla-03/atlas-forecast)** | Multi-model demand forecasting **+ inventory-optimization** decision engine | Forecasting · OR · ML | Supply-chain |
+| 🛰️ **[DriftGuard](https://github.com/akshay-birla-03/driftguard)** | Production **ML monitoring & drift detection** + performance-decay | MLOps · statistics | ML platform |
+| 📊 **[InsightGraph](https://github.com/akshay-birla-03/insightgraph)** | Automated **EDA + LLM insight-narrative** engine for any CSV | AutoML · GenAI · DA | Analytics |
 
 ### 📊 Applied ML &amp; analytics
 
