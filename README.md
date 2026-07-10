@@ -23,10 +23,11 @@
 
 I'm a **Data Scientist & AI Developer** working across the full lifecycle of intelligent systems — from raw data and EDA to **LLM-powered products** served in production. My work sits where **machine learning, generative AI, and data engineering** meet.
 
-- 🔭 Currently: **Jr. Data Scientist · Technical Project Lead · Trainer** @ Globe Creater Services
-- 🏛️ Contributed to an **AI-integrated district dashboard for the Government of Maharashtra**
-- 🏆 **Guinness World Record** holder (workflow lead — *Meri Maati Mera Desh*, 1M+ selfies)
-- 🎓 **B.Sc. Data Science, AI & ML** — SPPU · **8.82 CGPA (A+)** · offers from **TCS & Wipro**
+- 🔭 Currently: **Jr. Data Scientist & Technical Project Lead** @ Globe Creater Services (Pune)
+- 🏛️ Delivered an **AI-integrated district dashboard for the Government of Maharashtra** (freelance, multiple districts)
+- 🛠️ Previously: **Python Developer** @ DocBoyz — AWS pipelines, fintech chatbot, document processing
+- 🏆 Contributed to a **Guinness World Record** — *Largest Online Photo Album of Books* (Dept. of Technology, SPPU)
+- 🎓 **B.Sc. Data Science, AI & ML** — SPPU · **8.82 CGPA (A+)** · declined **TCS & Wipro** offers to pursue real AI/ML work
 - 💬 Ask me about **RAG, LLMs, MLOps, and shipping ML honestly**
 
 > *"Grounding LLMs so they don't hallucinate, pipelines that fail loudly on bad data, and ML that's evaluated honestly and served behind an API."*
@@ -73,14 +74,14 @@ I'm a **Data Scientist & AI Developer** working across the full lifecycle of int
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=akshay-birla-03&show_icons=true&hide_border=true&title_color=8b7bfd&icon_color=22d3ee&text_color=9a9ba6&bg_color=0a0a0c" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akshay-birla-03&layout=compact&hide_border=true&title_color=8b7bfd&text_color=9a9ba6&bg_color=0a0a0c" alt="langs"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshay-birla-03&show_icons=true&hide_border=true&title_color=8b7bfd&icon_color=22d3ee&text_color=9a9ba6&bg_color=0a0a0c" alt="stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-birla-03&layout=compact&hide_border=true&title_color=8b7bfd&text_color=9a9ba6&bg_color=0a0a0c" alt="langs"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-birla-03&hide_border=true&background=0a0a0c&stroke=8b7bfd&ring=22d3ee&fire=a855f7&currStreakLabel=8b7bfd&v=3" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-birla-03&hide_border=true&background=0a0a0c&stroke=8b7bfd&ring=22d3ee&fire=a855f7&currStreakLabel=8b7bfd" alt="streak"/>
 </p>
 
 ---
 
-<p align="center"><i>Open to opportunities & collaboration — let's build something intelligent.</i></p>
+<p align="center"><i>Always up for interesting problems & collaboration — let's build something intelligent.</i></p>
