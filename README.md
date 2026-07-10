@@ -74,13 +74,19 @@ I'm a **Data Scientist & AI Developer** working across the full lifecycle of int
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=akshay-birla-03&show_icons=true&hide_border=true&title_color=8b7bfd&icon_color=22d3ee&text_color=9a9ba6&bg_color=0a0a0c" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-birla-03&layout=compact&hide_border=true&title_color=8b7bfd&text_color=9a9ba6&bg_color=0a0a0c" alt="langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akshay-birla-03&theme=github_dark" alt="stats"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshay-birla-03&theme=github_dark" alt="repos per language"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshay-birla-03&theme=github_dark" alt="most used languages"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akshay-birla-03&hide_border=true&background=0a0a0c&stroke=8b7bfd&ring=22d3ee&fire=a855f7&currStreakLabel=8b7bfd" alt="streak"/>
 </p>
+
+<p align="center"><sub>▶ Every project ships with a one-click <b>Run in Colab</b> notebook — no setup needed.</sub></p>
 
 ---
 
