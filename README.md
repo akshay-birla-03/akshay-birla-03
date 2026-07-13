@@ -71,6 +71,27 @@ I'm a **Data Scientist & AI Developer** working across the full lifecycle of int
 
 ---
 
+### 🏗️ Flagship Engineering Portfolio · 2026
+
+Ten production-style systems spanning the full data/AI stack — each self-contained, **tested (300+ tests total)**, Dockerized, CI-backed, and **one-click runnable in Colab**.
+
+| Project | Domain | Highlight |
+|---|---|---|
+| **[hybrid-rag-engine](https://github.com/akshay-birla-03/hybrid-rag-engine)** | GenAI · Retrieval | BM25 + dense fusion (RRF) with a full IR eval harness |
+| **[fraud-risk-mlops](https://github.com/akshay-birla-03/fraud-risk-mlops)** | FinTech · MLOps | Calibrated, leakage-safe model — ROC-AUC **0.99** |
+| **[deep-forecast](https://github.com/akshay-birla-03/deep-forecast)** | DL · Time-series | Seq2Seq attention LSTM, probabilistic P10/P50/P90 |
+| **[doc-intelligence](https://github.com/akshay-birla-03/doc-intelligence)** | NLP · Doc AI | Hybrid rule+ML NER, section classification, KV extraction |
+| **[churn-uplift](https://github.com/akshay-birla-03/churn-uplift)** | Causal ML | S/T-learner uplift modeling with Qini evaluation |
+| **[stream-feature-store](https://github.com/akshay-birla-03/stream-feature-store)** | Data Eng · MLOps | Windowed features + point-in-time-correct serving |
+| **[llm-agent-orchestrator](https://github.com/akshay-birla-03/llm-agent-orchestrator)** | GenAI · Agents | ReAct loop, typed tool registry, deterministic tests |
+| **[anomaly-timeseries](https://github.com/akshay-birla-03/anomaly-timeseries)** | Observability · IoT | 4-detector ensemble + online streaming detection |
+| **[vision-defect-detector](https://github.com/akshay-birla-03/vision-defect-detector)** | CV · Manufacturing | PyTorch CNN + occlusion-based defect localization |
+| **[recsys-two-tower](https://github.com/akshay-birla-03/recsys-two-tower)** | RecSys · E-commerce | Dual-encoder retrieval, in-batch negatives, Recall@K |
+
+<p align="center"><sub>▶ Every repo has a <b>Run in Colab</b> badge — click it to execute the full pipeline in your browser, no setup.</sub></p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
