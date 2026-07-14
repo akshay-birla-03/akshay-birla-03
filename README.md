@@ -88,6 +88,19 @@ Ten production-style systems spanning the full data/AI stack — each self-conta
 | **[vision-defect-detector](https://github.com/akshay-birla-03/vision-defect-detector)** | CV · Manufacturing | PyTorch CNN + occlusion-based defect localization |
 | **[recsys-two-tower](https://github.com/akshay-birla-03/recsys-two-tower)** | RecSys · E-commerce | Dual-encoder retrieval, in-batch negatives, Recall@K |
 
+### 🧬 Advanced & Specialized · 2026
+
+Six projects that push into higher-signal, specialized ground — LLM fine-tuning, healthcare, responsible AI, advanced CV, graph ML, and insurance.
+
+| Project | Domain | Highlight |
+|---|---|---|
+| **[lora-peft-lab](https://github.com/akshay-birla-03/lora-peft-lab)** | GenAI · Fine-tuning | LoRA adapters (&lt;10% params) matching full fine-tuning |
+| **[clinical-risk-ml](https://github.com/akshay-birla-03/clinical-risk-ml)** | Healthcare | Calibration + decision curves + SHAP + subgroup fairness |
+| **[responsible-ai-audit](https://github.com/akshay-birla-03/responsible-ai-audit)** | Responsible AI | SHAP + fairness metrics + bias mitigation on a lending model |
+| **[segmentation-unet](https://github.com/akshay-birla-03/segmentation-unet)** | Computer Vision | U-Net per-pixel segmentation (Dice/IoU) beyond classification |
+| **[graph-fraud-gnn](https://github.com/akshay-birla-03/graph-fraud-gnn)** | Graph ML · AML | From-scratch GCN detecting fraud rings on a transaction graph |
+| **[insurance-actuarial-ml](https://github.com/akshay-birla-03/insurance-actuarial-ml)** | Insurance | Frequency-severity pricing → pure premium with Gini/lift |
+
 <p align="center"><sub>▶ Every repo has a <b>Run in Colab</b> badge — click it to execute the full pipeline in your browser, no setup.</sub></p>
 
 ---
