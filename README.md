@@ -105,6 +105,26 @@ Six projects that push into higher-signal, specialized ground — LLM fine-tunin
 
 ---
 
+### 🎯 Domain Flagship Series · 2026
+
+Seven end-to-end systems, one per core discipline of the data/AI stack — each deliberately
+*distinct* (analysis vs. classical AI vs. ML vs. DL vs. GenAI vs. agents), fully **tested**,
+and **one-click runnable in Colab**.
+
+| Project | Domain | Highlight |
+|---|---|---|
+| **[retail-revenue-intelligence](https://github.com/akshay-birla-03/retail-revenue-intelligence)** | Data Analysis | RFM, cohorts, market-basket &amp; elasticity with A/B testing — analysis-first, no black boxes |
+| **[demand-forecasting-lab](https://github.com/akshay-birla-03/demand-forecasting-lab)** | Data Science | Model zoo + rolling-origin backtesting + conformal intervals + MLflow |
+| **[logistics-route-optimizer](https://github.com/akshay-birla-03/logistics-route-optimizer)** | AI · Optimization | CVRP via savings, SA, GA, ACO &amp; OR-Tools, plus A* pathfinding — classical AI, no ML |
+| **[credit-risk-scoring](https://github.com/akshay-birla-03/credit-risk-scoring)** | ML | Calibration + SHAP + fairness audit + model card, served on FastAPI |
+| **[vision-defect-detection](https://github.com/akshay-birla-03/vision-defect-detection)** | Deep Learning | PyTorch CNN + transfer learning, Grad-CAM localization, ONNX export |
+| **[multimodal-rag-assistant](https://github.com/akshay-birla-03/multimodal-rag-assistant)** | GenAI · Retrieval | Hybrid dense+BM25 RRF fusion, MMR re-ranking, RAGAS-style eval — runs offline |
+| **[autonomous-research-agent](https://github.com/akshay-birla-03/autonomous-research-agent)** | Agentic AI | Planner/researcher/critic over a ReAct tool loop + from-scratch StateGraph |
+
+<p align="center"><sub>▶ Every repo ships a <b>Run in Colab</b> notebook — click to run the full pipeline in your browser.</sub></p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
